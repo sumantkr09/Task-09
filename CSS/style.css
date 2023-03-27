@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: lightgreen;
+}
+img{
+    display: block;
+    width: 150px;
+    margin: 5px auto;
+}
+#division{
+    border: 3px solid black;
+    height: 400px;
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly; 
+    align-items: center; 
+     text-align: center;
+    flex-wrap: wrap;
+
+}
+.div1{
+    height: 150px;
+    width: 250px;
+    background-color: red;
+}
+.div2{
+    height: 150px;
+    width: 250px;
+    background-color:yellow;
+}
+.div3{
+    height: 150px;
+    width: 250px;
+    background-color:green;
+}
+.div4{
+    height: 150px;
+    width: 250px;
+    background-color:grey;
+}
